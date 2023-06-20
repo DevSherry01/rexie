@@ -44,13 +44,6 @@ app.run()
 framework. It enables you to easily interact with the main Telegram API through a user account (custom client) or a bot
 identity (bot API alternative) using Python.
 
-### Support
-
-If you'd like to support Pyrogram, you can consider:
-
-- [Become a GitHub sponsor](https://github.com/sponsors/delivrance).
-- [Become a LiberaPay patron](https://liberapay.com/delivrance).
-- [Become an OpenCollective backer](https://opencollective.com/pyrogram).
 
 ### Key Features
 
